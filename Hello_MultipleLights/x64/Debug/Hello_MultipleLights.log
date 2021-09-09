@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(195,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(222,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(223,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(230,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(231,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(238,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(239,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(246,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(247,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(255,57): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(256,61): warning C4305: “参数”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(364,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(365,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(369,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(370,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(372,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(373,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\main.cpp(382,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Hello_MultipleLights.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\x64\Debug\Hello_MultipleLights.exe

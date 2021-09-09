@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(179,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(291,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(292,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(296,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(297,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(299,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(300,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\main.cpp(309,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Hello_Lighting_Maps.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_Lighting_Maps\x64\Debug\Hello_Lighting_Maps.exe

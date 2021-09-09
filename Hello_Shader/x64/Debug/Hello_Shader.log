@@ -1,0 +1,8 @@
+﻿  greenTriangel.cpp
+D:\c_and_cpp\learn_opengl_projects\Hello_Shader\greenTriangel.cpp(149,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.obj : error LNK2005: "void __cdecl framebuffer_size_callback(struct GLFWwindow *,int,int)" (?framebuffer_size_callback@@YAXPEAUGLFWwindow@@HH@Z) 已经在 greenTriangel.obj 中定义
+main.obj : error LNK2005: "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 已经在 greenTriangel.obj 中定义
+main.obj : error LNK2005: main 已经在 greenTriangel.obj 中定义
+main.obj : error LNK2005: "char const * const vertexShaderSource" (?vertexShaderSource@@3PEBDEB) 已经在 greenTriangel.obj 中定义
+main.obj : error LNK2005: "char const * const fragmentShaderSource" (?fragmentShaderSource@@3PEBDEB) 已经在 greenTriangel.obj 中定义
+D:\c_and_cpp\learn_opengl_projects\Hello_Shader\x64\Debug\Hello_Shader.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

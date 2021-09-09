@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+D:\lypLibs\include\Shader.h(42,40): warning C4101: “e”: 未引用的局部变量
+  Hello_Texture.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_Texture\x64\Debug\Hello_Texture.exe

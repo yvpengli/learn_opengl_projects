@@ -1,0 +1,1 @@
+D:\c_and_cpp\learn_opengl_projects\Hello_MultipleLights\x64\Release\Hello_MultipleLights.exe

@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(233,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(344,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(345,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(349,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(350,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(351,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(352,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Camera\main.cpp(354,29): warning C4305: “初始化”: 从“double”到“float”截断
+  Hello_Camera.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_Camera\x64\Debug\Hello_Camera.exe

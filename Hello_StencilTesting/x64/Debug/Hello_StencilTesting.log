@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\lypLibs\include\learnopengl\mesh.h(81,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(183,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(241,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(309,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(310,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(314,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(315,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(317,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(318,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\main.cpp(327,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Hello_StencilTesting.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\x64\Debug\Hello_StencilTesting.exe

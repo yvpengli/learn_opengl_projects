@@ -1,0 +1,1 @@
+D:\c_and_cpp\learn_opengl_projects\Hello_StencilTesting\x64\Debug\Hello_StencilTesting.exe

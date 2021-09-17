@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\lypLibs\include\learnopengl\mesh.h(81,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(222,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(320,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(321,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(325,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(326,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(328,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(329,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Blending\main.cpp(338,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Hello_Blending.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_Blending\x64\Debug\Hello_Blending.exe

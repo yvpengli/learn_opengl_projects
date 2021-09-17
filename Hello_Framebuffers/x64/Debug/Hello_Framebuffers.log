@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\lypLibs\include\learnopengl\shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\lypLibs\include\learnopengl\mesh.h(81,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(179,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(265,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(266,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(270,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(271,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(273,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(274,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\main.cpp(283,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Hello_Framebuffers.vcxproj -> D:\c_and_cpp\learn_opengl_projects\Hello_Framebuffers\x64\Debug\Hello_Framebuffers.exe

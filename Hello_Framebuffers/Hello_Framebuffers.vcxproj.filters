@@ -29,6 +29,12 @@
     <None Include="1.1.depth_testing.vs">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="5.1.framebuffers.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="5.1.framebuffers.fs">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="marble.jpg">

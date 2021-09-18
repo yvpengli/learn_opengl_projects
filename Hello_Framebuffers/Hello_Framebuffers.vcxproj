@@ -151,6 +151,8 @@
   <ItemGroup>
     <None Include="1.1.depth_testing.fs" />
     <None Include="1.1.depth_testing.vs" />
+    <None Include="5.1.framebuffers.fs" />
+    <None Include="5.1.framebuffers.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg" />

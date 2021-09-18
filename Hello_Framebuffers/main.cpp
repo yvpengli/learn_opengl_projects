@@ -78,6 +78,7 @@ int main()
     // build and compile shaders
     // -------------------------
     Shader shader("1.1.depth_testing.vs", "1.1.depth_testing.fs");
+    Shader screenShader("5.1.framebuffers_screen.vs", "5.1.framebuffers_screen.fs");
 
     // set up vertex data (and buffer(s)) and configure vertex attributes
     // ------------------------------------------------------------------

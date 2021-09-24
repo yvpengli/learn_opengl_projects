@@ -29,10 +29,17 @@
     <None Include="1.1.depth_testing.vs">
       <Filter>资源文件</Filter>
     </None>
+<<<<<<< HEAD
     <None Include="5.1.framebuffers.vs">
       <Filter>资源文件</Filter>
     </None>
     <None Include="5.1.framebuffers.fs">
+=======
+    <None Include="5.1.framebuffers_screen.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="5.1.framebuffers_screen.fs">
+>>>>>>> 1530e55c7b4b919189dcec3b2288516040df2600
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
